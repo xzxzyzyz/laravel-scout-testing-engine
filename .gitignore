@@ -1,6 +1,5 @@
 /coverage
 /vendor
-/tests/.temp
 /.idea
 composer.lock
 .DS_Store
